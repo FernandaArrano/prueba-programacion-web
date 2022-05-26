@@ -3,7 +3,7 @@ export const CrearNoticia = () => {
         <div className="container p-3">
             <div className="row">
                 <div className="col-12">
-                    <h1>Nueva noticia</h1>
+                    <h1>prueba</h1>
                 </div>
                 <div className="col-12">
                     <form action="">
